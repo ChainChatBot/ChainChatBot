@@ -1,21 +1,28 @@
-MIT License
+# ChainChat License
 
-Copyright (c) 2025 ChainChatBot
+Copyright (c) 2025 42Web. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This work is a project created by **42Web** for educational and exploratory purposes. ChainChat demonstrates how publicly available APIs and tools, such as Zapier, CoinGecko, Etherscan, and other resources, can be leveraged to create private AI solutions for learning and experimentation. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+# Permissions:
+- **Use**: You are welcome to use and interact with ChainChat to explore its capabilities and learn from its design.
+- **Non-Commercial Adaptation**: You may create derivative works based on this project for non-commercial, educational purposes, provided that proper credit is given to 42Web.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+# Restrictions:
+- **Commercial Use**: This project and its associated resources are strictly prohibited from being used for any commercial purposes, including but not limited to redistribution, monetization, or integration into commercial products, without explicit written permission from 42Web.
+- **Liability**: Since ChainChat uses APIs and third-party tools, it is provided "as is" and is not guaranteed to be free of errors, complete, or suitable for any specific purpose.
+
+# Disclaimer:
+This software is a **non-commercial educational project** and is not intended for production use. It is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+# About 42Web:
+**42Web** is a collective focused on showcasing how accessible public tools and APIs can be used to create private AI solutions for learning and innovation. ChainChat is the first project in this initiative, designed to inspire others to explore AI possibilities and learn by creating. It is not intended for commercial use or monetization.
+
+For inquiries, feedback, or collaborations, contact us via [GitHub Issues](../../issues).
+
+---
+
+# Summary:
+This project is for **fun and learning** only. Please do not attempt to commercialize or redistribute ChainChat without permission.
+
+For further details, visit: https://creativecommons.org/licenses/by-nc/4.0/
