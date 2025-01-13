@@ -58,13 +58,13 @@ For an interactive version of our roadmap, visit our website. You’ll be able t
 - Click on specific milestones for more details.
 - Engage with our community to shape the future of ChainChat.
 
-**Visit the Interactive Roadmap**: [Link to ChainChat Official Website](#)
+**Visit the Interactive Roadmap**: [Link to ChainChat Official Website](chainchat.42web.io)
 
 ---
 
 # Feedback and Suggestions 💡
 
-We value your feedback! If you have any suggestions for new features or improvements, please create a GitHub issue or join our community on [Discord](#) or [Telegram](#).
+We value your feedback! If you have any suggestions for new features or improvements, please create a GitHub issue or join our community on X at (https://x.com/chainchatbot)
 
 ---
 
