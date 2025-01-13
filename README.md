@@ -37,11 +37,6 @@ ChainChat integrates APIs from trusted sources, including:
 # User Flow
 1. **Welcome Interaction**: The bot greets users and offers options for interaction.
 2. **Tailored Responses**: Adjusts its responses based on the user's path.
-3. **Crypto Experience Levels**: Adjusts insights for:
-   - Complete Beginner 🟢
-   - Know the Basics 🔵
-   - Experienced Trader 🟠
-   - Blockchain Pro 🔴
 4. **Continuous Learning**: ChainChat refines responses with each interaction.
 
 ---
