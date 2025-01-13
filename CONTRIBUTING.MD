@@ -59,13 +59,3 @@ Focus your contributions on ChainChat’s core purpose: improving blockchain-rel
 
 # Test Your Changes
 Before suggesting or submitting a change, make sure to test it thoroughly to ensure it doesn’t introduce new issues.
-
----
-
-# Getting Started
-
-If you’re ready to contribute:
-1. Fork the repository.
-2. Make your changes in a new branch:
-   ```bash
-   git checkout -b feature/my-new-feature
