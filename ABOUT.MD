@@ -46,14 +46,11 @@ Our goal is to continue showcasing the potential of AI while keeping it accessib
 - Join the conversation in our community spaces like Discord and Telegram.
 - Stay tuned for new projects and opportunities to collaborate.
 
-**Join Us**: [GitHub Repository](https://github.com) | [Discord](#) | [Telegram](#)
-
 ---
 
 # Contact Us 📩
 
-If you have questions, feedback, or ideas, we’d love to hear from you! Reach out to us through [GitHub Issues](../../issues) or our community channels.
-
+If you have questions, feedback, or ideas, we’d love to hear from you! Reach out to us through our X at https://x.com/chainchatbot
 ---
 
 # Disclaimer 📜
