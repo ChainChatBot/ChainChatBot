@@ -61,7 +61,7 @@ ChainChat is the flagship project of **42Web**, a collective focused on using ac
 
 # Contribute 🤝
 
-Help improve ChainChat by engaging with the bot! Every interaction helps refine the AI. Want to collaborate? Check out our [Contribution Guidelines](CONTRIBUTING.md).
+Help improve ChainChat by engaging with the bot! Every interaction helps refine the AI. Want to collaborate? Check out our [Contribution Guidelines](CONTRIBUTING.MD).
 
 ---
 
