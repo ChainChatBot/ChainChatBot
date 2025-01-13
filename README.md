@@ -19,7 +19,7 @@ ChainChat is an innovative AI-powered chatbot dedicated to providing real-time i
 # Live Demo 🌐
 
 Explore ChainChat live by clicking the button below:  
-👉 [Try ChainChat Bot V1](https://interfaces.zapier.com/embed/chatbot/cm5gk88km004i8uvx8w2f5gaz)
+👉 [Try ChainChat Bot V1](http://chainchat.42web.io/ChainBot-Bot/)
 
 ---
 
@@ -72,4 +72,4 @@ Help improve ChainChat by engaging with the bot! Every interaction helps refine 
 
 # License 📜
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under License. See the LICENSE file for details.
