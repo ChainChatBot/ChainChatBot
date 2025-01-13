@@ -50,7 +50,8 @@ Our goal is to continue showcasing the potential of AI while keeping it accessib
 
 # Contact Us 📩
 
-If you have questions, feedback, or ideas, we’d love to hear from you! Reach out to us through our X at https://x.com/chainchatbot
+If you have questions, feedback, or ideas, we’d love to hear from you! Reach out to us through our X at https://x.com/chainchatbot (https://x.com/chainchatbot)
+
 ---
 
 # Disclaimer 📜
