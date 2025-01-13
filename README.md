@@ -54,13 +54,8 @@ ChainChat is continuously evolving! Check out our [Roadmap](ROADMAP.md) for upco
 
 # About 42Web 🌍
 
-ChainChat is the flagship project of **42Web**, a collective focused on using accessible public tools to create private AI solutions. Learn more about us [here](ABOUT.md).
+ChainChat is the flagship project of **42Web**, a collective focused on using accessible public tools to create private AI solutions. Learn more about us [here](ABOUT.MD).
 
----
-
-# Code and Embeds 🧑‍💻
-
-Want to integrate ChainChat into your project or explore its features? Check out [Code Snippets and Embeds](CODE.md).
 
 ---
 
