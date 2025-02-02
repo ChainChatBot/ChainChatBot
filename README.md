@@ -1,6 +1,6 @@
 # ChainChat 🚀
 
-# The World’s First AI-Powered Blockchain Advisor
+# The World's First LLM Built For Blockchain Advisory
 
 ChainChat is an innovative AI-powered chatbot dedicated to providing real-time insights and analysis of the ever-evolving cryptocurrency market. Leveraging cutting-edge technologies from industry leaders like Google, OpenAI, Microsoft, and **42Web**, ChainChat empowers users with the latest trends, data, and blockchain intelligence to make informed decisions.
 
@@ -19,7 +19,7 @@ ChainChat is an innovative AI-powered chatbot dedicated to providing real-time i
 # Live Demo 🌐
 
 Explore ChainChat live by clicking the button below:  
-👉 [Try ChainChat Bot V1](http://chainchat.42web.io/ChainBot-Bot/)
+👉 [Try ChainChat Bot V1](http://chainchat.42web.io)
 
 ---
 
