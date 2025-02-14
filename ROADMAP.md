@@ -64,7 +64,7 @@ For an interactive version of our roadmap, visit our website. You’ll be able t
 
 # Feedback and Suggestions 💡
 
-We value your feedback! If you have any suggestions for new features or improvements, please create a GitHub issue or join our community on X at (https://x.com/chainchatbot)
+We value your feedback! If you have any suggestions for new features or improvements, please create a GitHub issue or join our community on X at (https://x.com/chainchat42web)
 
 ---
 
