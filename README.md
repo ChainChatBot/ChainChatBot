@@ -19,7 +19,7 @@ ChainChat is an innovative AI-powered chatbot dedicated to providing real-time i
 # Live Demo 🌐
 
 Explore ChainChat live by clicking the button below:  
-👉 [Try ChainChat Bot V1](http://chainchat.42web.io)
+👉 [Try ChainChat LLM V1](http://chainchatby42web.com)
 
 ---
 
