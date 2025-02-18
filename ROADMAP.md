@@ -50,10 +50,10 @@ Welcome to the official roadmap for **ChainChat**, the world’s first AI-powere
 - **Governance and Future Vision**: Introduce discussions on decentralized governance for ChainChat’s features and publish a 6-month roadmap for transparency.
 ---
 
-# Roadmap I Project Milestones
-- ** App Built: Complete the main application with all core features available on IOS & Android.
-- ** ChainIntel Bot: Develop a X reply bot to interact with users and accounts to fact-check & provide truthful information to the platform and provide breaking news directly to the follower base and X.
-- ** Affiliate Partnerships: Establish affiliate links with exchanges to fund the platform and generate revenue.
+# **Roadmap I Project Milestones**
+- **App Built**: Complete the main application with all core features available on IOS & Android.
+- **ChainIntel AI Agent**: Develop a X reply bot to interact with users and accounts to fact-check & provide truthful information to the platform and provide breaking news directly to the follower base and X.
+- **Affiliate Partnerships**: Establish affiliate links with exchanges to fund the platform and generate revenue.
 ---
 
 # Interactive Roadmap 🌐
