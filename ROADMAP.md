@@ -48,7 +48,12 @@ Welcome to the official roadmap for **ChainChat**, the world’s first AI-powere
 # **Weeks 11–12: Scaling and Global Outreach**
 - **International Expansion**: Add multilingual support and partner with influencers to target regional audiences.
 - **Governance and Future Vision**: Introduce discussions on decentralized governance for ChainChat’s features and publish a 6-month roadmap for transparency.
+---
 
+# Roadmap I Project Milestones
+- ** App Built: Complete the main application with all core features available on IOS & Android.
+- ** ChainIntel Bot: Develop a X reply bot to interact with users and accounts to fact-check & provide truthful information to the platform and provide breaking news directly to the follower base and X.
+- ** Affiliate Partnerships: Establish affiliate links with exchanges to fund the platform and generate revenue.
 ---
 
 # Interactive Roadmap 🌐
@@ -58,7 +63,7 @@ For an interactive version of our roadmap, visit our website. You’ll be able t
 - Click on specific milestones for more details.
 - Engage with our community to shape the future of ChainChat.
 
-**Visit the Interactive Roadmap**: [Link to ChainChat Official Website](chainchat.42web.io)
+**Visit the Interactive Roadmap**: [Link to ChainChat Official Website](chainchatby42web.com)
 
 ---
 
